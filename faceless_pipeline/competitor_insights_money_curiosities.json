@@ -1,10 +1,9 @@
 {
-  "generated_at": "2026-09-04T14:32:25.402192+00:00",
+  "generated_at": "2026-09-05T23:53:02.935048+00:00",
   "insights": {
     "top_title_words": [
       "financial",
       "more",
-      "why",
       "finance",
       "wall",
       "shorts",
@@ -16,12 +15,12 @@
       "abundant",
       "gold",
       "how",
-      "expensive"
+      "expensive",
+      "element"
     ],
     "top_hashtags": [
       "shorts",
       "investing",
-      "stockmarket",
       "stockmarketindia",
       "sciencefacts",
       "dailydoseofscience",
@@ -31,20 +30,21 @@
       "marathahistory",
       "indianhistory",
       "historicalletters",
-      "gamesofgeopolitics",
-      "japan",
-      "yen"
+      "tulipmania",
+      "marketbubble",
+      "financialhistory",
+      "stockmarket"
     ],
-    "avg_title_length_chars": 66.0,
-    "avg_title_length_words": 10.5,
+    "avg_title_length_chars": 60.1,
+    "avg_title_length_words": 9.7,
     "sample_size": 10,
     "hook_patterns": {
-      "avg_hook_length_words": 17.4,
-      "pct_hooks_are_questions": 0,
+      "avg_hook_length_words": 10.0,
+      "pct_hooks_are_questions": 10,
       "pct_hooks_start_with_number": 0,
       "pct_hooks_start_with_question_word": 0,
-      "sample_size": 5,
-      "source": "real audio transcripts"
+      "sample_size": 10,
+      "source": "video descriptions"
     }
   }
 }
