@@ -1,0 +1,50 @@
+{
+  "generated_at": "2026-09-05T23:55:28.399592+00:00",
+  "insights": {
+    "top_title_words": [
+      "india",
+      "shorts",
+      "border",
+      "pok",
+      "war",
+      "pakistan",
+      "countries",
+      "trump",
+      "declares",
+      "strait",
+      "hormuz",
+      "territory",
+      "how",
+      "works",
+      "when"
+    ],
+    "top_hashtags": [
+      "geopolitics",
+      "mapolitik",
+      "shorts",
+      "india",
+      "map",
+      "mapanimation",
+      "military",
+      "ethiopia",
+      "egypt",
+      "nileriver",
+      "gerd",
+      "waterwar",
+      "africa",
+      "sudan",
+      "grandethiopianrenaissancedam"
+    ],
+    "avg_title_length_chars": 58.3,
+    "avg_title_length_words": 9.6,
+    "sample_size": 10,
+    "hook_patterns": {
+      "avg_hook_length_words": 14.2,
+      "pct_hooks_are_questions": 20,
+      "pct_hooks_start_with_number": 0,
+      "pct_hooks_start_with_question_word": 20,
+      "sample_size": 10,
+      "source": "video descriptions"
+    }
+  }
+}
