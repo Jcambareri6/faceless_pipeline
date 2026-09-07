@@ -1,13 +1,9 @@
 {
-  "generated_at": "2026-09-05T23:53:02.935048+00:00",
+  "generated_at": "2026-09-07T15:32:38.558208+00:00",
   "insights": {
     "top_title_words": [
       "financial",
       "more",
-      "finance",
-      "wall",
-      "shorts",
-      "history",
       "bill",
       "aluminum",
       "million",
@@ -16,12 +12,17 @@
       "gold",
       "how",
       "expensive",
-      "element"
+      "element",
+      "part",
+      "bajirao",
+      "peshwa",
+      "his"
     ],
     "top_hashtags": [
       "shorts",
+      "finance",
+      "history",
       "investing",
-      "stockmarketindia",
       "sciencefacts",
       "dailydoseofscience",
       "funscience",
@@ -32,16 +33,15 @@
       "historicalletters",
       "tulipmania",
       "marketbubble",
-      "financialhistory",
-      "stockmarket"
+      "financialhistory"
     ],
-    "avg_title_length_chars": 60.1,
-    "avg_title_length_words": 9.7,
+    "avg_title_length_chars": 59.4,
+    "avg_title_length_words": 9.5,
     "sample_size": 10,
     "hook_patterns": {
-      "avg_hook_length_words": 10.0,
+      "avg_hook_length_words": 9.0,
       "pct_hooks_are_questions": 10,
-      "pct_hooks_start_with_number": 0,
+      "pct_hooks_start_with_number": 10,
       "pct_hooks_start_with_question_word": 0,
       "sample_size": 10,
       "source": "video descriptions"
